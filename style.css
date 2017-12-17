@@ -1,3 +1,7 @@
+body{
+  background: grey;
+}
+
 div.mes {
   margin: 0 auto;
   width: 250px;
